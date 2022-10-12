@@ -2,14 +2,16 @@
 
 one:
   name: MyString
-  bid: 1
+  category: MyString
+  bidding_price: 1
   image_url: MyString
   description: MyString
-  category: MyString
+  email_of_auctioner: MyString
 
 two:
   name: MyString
-  bid: 1
+  category: MyString
+  bidding_price: 1
   image_url: MyString
   description: MyString
-  category: MyString
+  email_of_auctioner: MyString
